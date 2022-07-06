@@ -1,0 +1,11 @@
+/out:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\\"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\TransformedSRWR"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\in"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\in\\"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\in\\"
+/ref:"D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\lib\Private\\"
+/ref:"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\csc"

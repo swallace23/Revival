@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/air_move.wav</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/archer.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/archerThumbnail.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/arrow.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/bigHealth.spritefont</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/bigRed.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/blueSquare.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/brute.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/cutDark.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/darkPurple.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/death.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Fullmain.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/grass_template2.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/greenSquare.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Health.spritefont</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Idle and running.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Karstenholymoly_-_The_Invisible_Enemy_(feat._bangcorrupt).mp3</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/littleHealth.spritefont</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/lscreen.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/mactonite_-_Requiem_for_the_Corrupt.mp3</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/main2.1.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/newarcher.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Normal Attack.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/purpleSquare.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/RedFlash.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/redSquare.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/REVIVAL.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/shake.mp3</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/shockwaveSound.mp3</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/shoot.ogg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/startpic.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/sword_clash.10.ogg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/tankThumbnail.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/win.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/winscreen.jpg</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/woosh-1.wav</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/woosh-2.wav</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/zombieDeath.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/zombies.png</File>
+    <File>D:/Users/SWallace23/Desktop/Revival/Revival/Content/zombies2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

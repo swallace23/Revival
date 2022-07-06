@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Users/SWallace23/Desktop/Revival/Revival/Content/sword_clash.10.ogg</SourceFile>
+  <SourceTime>2022-05-23T12:30:14.290488-04:00</SourceTime>
+  <DestFile>D:/Users/SWallace23/Desktop/Revival/Revival/Content/bin/WindowsStoreApp/Content/sword_clash.10.xnb</DestFile>
+  <DestTime>2022-05-23T12:41:39.4730873-04:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

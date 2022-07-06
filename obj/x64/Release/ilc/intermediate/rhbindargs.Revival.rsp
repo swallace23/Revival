@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\MDIL\Revival.mdilexe"
+"/i:D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\Native\Revival.exe"
+"/pdbAltPath:D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x64\Release\ilc"
+"/res:D:\Users\SWallace23\Desktop\Revival\Revival\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.3\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

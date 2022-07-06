@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EC2AMAZ-LJ11HPA</Machine>
+    <WindowsUser>SWallace23</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>56b0d699-823e-4912-ba61-27144524ee11</PackageIdentityName>
+    <PackageIdentityPublisher>CN=SWallace23</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Users\SWallace23\Desktop\Revival\Revival\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A4E825718526F51FC56954695FEE52FE2AA76D7F98AD6EACEF6ABB79F1163CB8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>56b0d699-823e-4912-ba61-27144524ee11_1.0.0.0_x86__sjc3411qwcgxp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>56b0d699-823e-4912-ba61-27144524ee11_sjc3411qwcgxp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>56b0d699-823e-4912-ba61-27144524ee11</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=SWallace23</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-16T16:22:04.244</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2018-12-08T15:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-14T01:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\air_move.xnb">
+      <PackagePath>Content\air_move.xnb</PackagePath>
+      <Modified>2022-05-12T17:18:38.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\archer.xnb">
+      <PackagePath>Content\archer.xnb</PackagePath>
+      <Modified>2022-04-27T17:28:17.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\arrow.xnb">
+      <PackagePath>Content\arrow.xnb</PackagePath>
+      <Modified>2022-05-02T15:22:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\background.xnb">
+      <PackagePath>Content\background.xnb</PackagePath>
+      <Modified>2022-04-28T18:54:32.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\blueSquare.xnb">
+      <PackagePath>Content\blueSquare.xnb</PackagePath>
+      <Modified>2022-04-06T17:14:48.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\brute.xnb">
+      <PackagePath>Content\brute.xnb</PackagePath>
+      <Modified>2022-05-10T14:01:18.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\dungeon.xnb">
+      <PackagePath>Content\dungeon.xnb</PackagePath>
+      <Modified>2022-04-28T19:07:54.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\farm.xnb">
+      <PackagePath>Content\farm.xnb</PackagePath>
+      <Modified>2022-04-28T19:38:10.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Fullmain.xnb">
+      <PackagePath>Content\Fullmain.xnb</PackagePath>
+      <Modified>2022-04-29T13:22:29.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\greenSquare.xnb">
+      <PackagePath>Content\greenSquare.xnb</PackagePath>
+      <Modified>2022-03-16T17:25:47.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Health.xnb">
+      <PackagePath>Content\Health.xnb</PackagePath>
+      <Modified>2022-03-09T18:22:07.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Idle and running.xnb">
+      <PackagePath>Content\Idle and running.xnb</PackagePath>
+      <Modified>2022-04-28T15:32:12.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Karstenholymoly_-_The_Invisible_Enemy_%28feat._bangcorrupt%29.wma">
+      <PackagePath>Content\Karstenholymoly_-_The_Invisible_Enemy_%28feat._bangcorrupt%29.wma</PackagePath>
+      <Modified>2022-05-12T14:56:29.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Karstenholymoly_-_The_Invisible_Enemy_%28feat._bangcorrupt%29.xnb">
+      <PackagePath>Content\Karstenholymoly_-_The_Invisible_Enemy_%28feat._bangcorrupt%29.xnb</PackagePath>
+      <Modified>2022-05-12T14:56:29.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\knight.xnb">
+      <PackagePath>Content\knight.xnb</PackagePath>
+      <Modified>2022-02-03T18:24:45.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\lscreen.xnb">
+      <PackagePath>Content\lscreen.xnb</PackagePath>
+      <Modified>2022-03-16T14:59:25.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\mactonite_-_Requiem_for_the_Corrupt.wma">
+      <PackagePath>Content\mactonite_-_Requiem_for_the_Corrupt.wma</PackagePath>
+      <Modified>2022-05-12T13:12:39.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\mactonite_-_Requiem_for_the_Corrupt.xnb">
+      <PackagePath>Content\mactonite_-_Requiem_for_the_Corrupt.xnb</PackagePath>
+      <Modified>2022-05-12T13:12:40.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\minion.xnb">
+      <PackagePath>Content\minion.xnb</PackagePath>
+      <Modified>2022-04-29T15:12:00.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\miniontwo.xnb">
+      <PackagePath>Content\miniontwo.xnb</PackagePath>
+      <Modified>2022-04-29T15:13:19.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\newarcher.xnb">
+      <PackagePath>Content\newarcher.xnb</PackagePath>
+      <Modified>2022-04-27T18:09:49.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\newdungeon.xnb">
+      <PackagePath>Content\newdungeon.xnb</PackagePath>
+      <Modified>2022-04-28T19:13:03.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\newerdungeon.xnb">
+      <PackagePath>Content\newerdungeon.xnb</PackagePath>
+      <Modified>2022-04-28T19:18:21.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\Normal Attack.xnb">
+      <PackagePath>Content\Normal Attack.xnb</PackagePath>
+      <Modified>2022-05-16T16:14:04.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\redSquare.xnb">
+      <PackagePath>Content\redSquare.xnb</PackagePath>
+      <Modified>2022-03-16T17:25:47.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\shake.wma">
+      <PackagePath>Content\shake.wma</PackagePath>
+      <Modified>2022-05-12T17:47:21.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\shake.xnb">
+      <PackagePath>Content\shake.xnb</PackagePath>
+      <Modified>2022-05-12T17:48:23.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\shoot.wma">
+      <PackagePath>Content\shoot.wma</PackagePath>
+      <Modified>2022-05-12T16:42:06.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\shoot.xnb">
+      <PackagePath>Content\shoot.xnb</PackagePath>
+      <Modified>2022-05-12T16:47:28.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\startpic.xnb">
+      <PackagePath>Content\startpic.xnb</PackagePath>
+      <Modified>2022-03-07T17:30:33.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\winscreen.xnb">
+      <PackagePath>Content\winscreen.xnb</PackagePath>
+      <Modified>2022-03-09T18:39:40.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\woosh-1.xnb">
+      <PackagePath>Content\woosh-1.xnb</PackagePath>
+      <Modified>2022-05-16T16:20:41.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\woosh-2.xnb">
+      <PackagePath>Content\woosh-2.xnb</PackagePath>
+      <Modified>2022-05-16T16:20:41.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\zombies.xnb">
+      <PackagePath>Content\zombies.xnb</PackagePath>
+      <Modified>2022-05-02T13:48:38.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Content\zombies2.xnb">
+      <PackagePath>Content\zombies2.xnb</PackagePath>
+      <Modified>2022-05-02T14:26:21.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-05-16T16:20:42.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Revival.dll">
+      <PackagePath>Revival.dll</PackagePath>
+      <Modified>2022-05-16T16:22:03.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Revival.exe">
+      <PackagePath>Revival.exe</PackagePath>
+      <Modified>2022-05-16T16:22:04.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\Revival.pdb">
+      <PackagePath>Revival.pdb</PackagePath>
+      <Modified>2022-05-16T16:22:04.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\2.rsrc">
+      <PackagePath>_Resources\2.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\3.rsrc">
+      <PackagePath>_Resources\3.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\4.rsrc">
+      <PackagePath>_Resources\4.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\5.rsrc">
+      <PackagePath>_Resources\5.rsrc</PackagePath>
+      <Modified>2022-05-16T16:21:16.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\SWallace23\Desktop\Revival\Revival\bin\WindowsUniversal\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+      <Modified>2022-05-16T16:21:16.915</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.27413.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.27413.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.3\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>D:\Users\SWallace23\.nuget\packages\microsoft.net.native.compiler\1.7.6\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.26706.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.26706.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

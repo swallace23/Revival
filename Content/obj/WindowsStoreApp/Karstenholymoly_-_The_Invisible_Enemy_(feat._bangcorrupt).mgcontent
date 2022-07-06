@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Users/SWallace23/Desktop/Revival/Revival/Content/Karstenholymoly_-_The_Invisible_Enemy_(feat._bangcorrupt).mp3</SourceFile>
+  <SourceTime>2022-05-12T10:49:09.7385673-04:00</SourceTime>
+  <DestFile>D:/Users/SWallace23/Desktop/Revival/Revival/Content/bin/WindowsStoreApp/Karstenholymoly_-_The_Invisible_Enemy_(feat._bangcorrupt).xnb</DestFile>
+  <DestTime>2022-05-31T12:20:41.8008098-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Users/SWallace23/Desktop/Revival/Revival/Content/bin/WindowsStoreApp/Karstenholymoly_-_The_Invisible_Enemy_(feat._bangcorrupt).wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
